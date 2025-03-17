@@ -16,7 +16,7 @@ This project is built using:
 - [Vite](https://vitejs.dev/) - Build tool and development server
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
 - [DaisyUI](https://daisyui.com/) - CSS Styling plugin for Tailwind
-- [FontAwesome Icons](https://fontawesome.com/icons] - Icon package 
+- [FontAwesome Icons](https://fontawesome.com/icons) - Icon package 
 - [CSS Modules](https://github.com/css-modules/css-modules) - For component-scoped styling
 
 ## 🛠️ Development
