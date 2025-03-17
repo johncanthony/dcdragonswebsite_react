@@ -1,6 +1,6 @@
 # DC Dragons Karate Website
 
-![DC Dragons Karate Logo](src/assets/images/dc_dragons_logo.png)
+![DC Dragons Karate Logo](public/dcdragon_logo.png)
 
 This repository contains the source code for the [DC Dragons Karate](https://www.dcdragonskarate.com) official website.
 
